@@ -9,7 +9,7 @@ public class test3 {
         System.out.println("Salam Necesen.\n Sagol yaxsiyam");
         System.out.println("Salam Necesen.\t Sagol yaxsiyam");
 
-        System.out.println(056);
+  //      System.out.println(056);
 
         float sum;
 
@@ -22,7 +22,7 @@ public class test3 {
         System.out.println("                    max");
         System.out.println();
         System.out.println();
-
+//***************
     }
 
 

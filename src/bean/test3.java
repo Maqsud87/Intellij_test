@@ -22,7 +22,7 @@ public class test3 {
         System.out.println("                    max");
         System.out.println();
         System.out.println();
-//***************
+//******
     }
 
 
